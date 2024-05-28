@@ -1,0 +1,109 @@
+.frame{
+    background-color: #f9f9eb;
+}
+.h5{
+color:#006666;
+font-size:large;
+font-weight:bold;
+font-family: sans-serif;
+ text-align: center;
+}
+.together{
+    padding-top: 80px;
+}
+.families{
+    padding-bottom: 10px;
+}
+.h1{
+color: #e4ba4e;
+font-family:"Danfo", serif;
+padding-bottom: 20px;
+text-align: center;
+margin-bottom: 4px;
+}
+.h2{
+    font-weight: bold;
+    margin: 0%;
+    font-family: Brush Script MT, Brush Script Std, cursive;
+    color: #cc3366;
+    margin-right: 150px;
+}
+.hs{
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+}
+.hh{
+    font-weight: bold;
+    margin: 0%;
+    font-family: Brush Script MT, Brush Script Std, cursive;
+    color: #cc3366;
+    margin-left: 150px;
+    padding-bottom: 30px;
+}
+.image{
+    height: 200px;
+    width: 210px;
+    margin-top: 20px;
+    padding:0 ;
+    
+}
+.ss{
+    text-align: center;
+    margin-top: 30px;
+}
+#hars{
+    background-color: #ffe4e1;
+}
+#photo{
+    margin-top: 4px;
+    background-color: #c4c1e0;
+}
+.gap{
+    padding-top: 80px;
+    padding-bottom: 80px;
+    margin-bottom: 4px;
+}
+#invite{
+    background-color: #cfe3ff;
+}
+.wedding{
+color:black;
+font-size:large;
+font-weight:bold;
+font-family: sans-serif;
+ text-align: center;
+ margin-top: 90px;
+}
+.day{
+    font-family: cursive;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 10px;
+    margin-top: 70px;
+}
+.month{
+    font-family: cursive;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 10px;
+}
+.time{
+    font-family: cursive;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 40px;
+}
+.venue{
+    text-align: center;
+    padding-top: 20px;
+    margin-bottom: 80px;
+}
+#hi{
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+#colour{
+    text-align: center;
+    color: #d0b200;
+}
